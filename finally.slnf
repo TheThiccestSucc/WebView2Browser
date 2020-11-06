@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "WebViewBrowserApp.sln",
+    "projects": [
+      "WebViewBrowserApp.vcxproj"
+    ]
+  }
+}
